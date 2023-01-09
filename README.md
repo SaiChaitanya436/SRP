@@ -13,3 +13,5 @@ Our team decided to make a static web-page which would contain some information 
 ![Screenshot (64)](https://user-images.githubusercontent.com/108869175/211227539-caf25d71-e427-4066-937f-49baf79e15fa.png)
 ![Screenshot (65)](https://user-images.githubusercontent.com/108869175/211227540-bd8ae105-7b48-4cd7-b0aa-22c96bba97a0.png)
 ![Screenshot (66)](https://user-images.githubusercontent.com/108869175/211227542-63b47689-ae3d-4427-9b4d-d0c40e519a17.png)
+
+This project is very similar to my before project on Github as i used the same styling sheets and JS scripts to make the changes in this Folder and only changes are made in the HTML document.
